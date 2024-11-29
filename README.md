@@ -37,3 +37,11 @@ Context использовал в целом для примера - для со
 Пара мелочей по UX: индикация загрузки страницы (toploader) при переходе между страницами, кнопка очистки поля поиска, сохранение состояния поиска.
 
 .env - файлы не заигнорил намеренно
+
+
+Скрины:
+
+
+![main](https://github.com/srgmatin/orient-test/blob/master/docs/main.png)
+
+![product](https://github.com/srgmatin/orient-test/blob/master/docs/product.png)
